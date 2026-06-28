@@ -19,6 +19,7 @@ social: false
 nav_order: 1
 ---
 
+
 <img src="/assets/img/lab_photo.jpg" alt="Lab banner" style="width: 100%; height: auto; margin-bottom: 1rem;">
 
 ## Welcome to DISL
